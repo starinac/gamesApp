@@ -1,0 +1,19 @@
+Napravljena je aplikacija koja služi za dodavanje, izmenu i brisanje igrica u/iz baze podataka, kao i za njihovo prikazivanje.
+Postoje 3 stranice na aplikaciji:pocetna, dodaj igricu i upravljanje igricama.
+
+Pocetna stranica je definisana fajlom index.php, kao i pretraga.php za koji je korišcen ajax. Na pocetnoj strani imamo listu svih
+igara koje su rasporedene po konzolama, odnosno za odredjenu konzolu vidimo sve igrice.
+
+Dodavanje nove igrice se vrši na strani dodaj igricu koja je odredena fajlom dodajIgricu.php, kao i header.php koji je ubacen ajax-om.
+Na ovoj strani imamo formu koju trebamo da popunimo za novu igricu(naziv, cena i konzola) i dugme kojim dodajemo novu igricu u bazu.
+
+Poslednja strana jeste upravljanje igricama koju cine fajlovi upravljaj.php, izmeni.php i obrisi.php. Tu su ucitane sve igrice sa
+njihovim podacima i pored svake imamo dugmice za izmeni i obriši kojim pozivamo odredene fajlove i menjamo ili brišemo izabranu igricu
+
+Pored ovih fajlova postoje i igriceClass.php i konzolaClass.php koje predstavaljaju klase igrice i konzole koje imaju svoje atribute.
+Njima je ispunjen zahtev za objektni PHP. Takodje postoji i fajl greske.log u koji se upisuju sve greške koje se dogode prilikom
+izvšavanja aplikacije i time dobijamo upravljanje greškama.
+
+Konektovanje na bazu, kao i upravljanje greškama je uradjeno u fajlu konekcija.php.
+Postoje jos i folderi u kojima se nalaze slike(folder img), css koji sadrži bootstrap.css i main.css i folder js u kojem je jquery.
+Na kraju tu je i exportovana baza igrice.sql nad kojom je sve radjeno.

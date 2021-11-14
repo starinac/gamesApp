@@ -1,0 +1,199 @@
+[14-Dec-2020 01:40:03 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\index.php on line 57
+[14-Dec-2020 01:40:03 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\index.php on line 57
+[14-Dec-2020 01:40:03 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\index.php on line 57
+[14-Dec-2020 01:40:03 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\index.php on line 57
+[14-Dec-2020 20:55:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\webapp\dodajIgricu.php:88
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\webapp\dodajIgricu.php on line 88
+[14-Dec-2020 20:59:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\webapp\dodajIgricu.php:87
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\webapp\dodajIgricu.php on line 87
+[14-Dec-2020 21:00:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\webapp\dodajIgricu.php:87
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\webapp\dodajIgricu.php on line 87
+[14-Dec-2020 21:26:51 Europe/Berlin] PHP Notice:  Undefined index: nazivIgrice in C:\xampp\htdocs\webapp\dodajIgricu.php on line 9
+[14-Dec-2020 21:26:51 Europe/Berlin] PHP Notice:  Undefined index: Cena in C:\xampp\htdocs\webapp\dodajIgricu.php on line 10
+[14-Dec-2020 21:26:51 Europe/Berlin] PHP Notice:  Undefined index: konzolaID in C:\xampp\htdocs\webapp\dodajIgricu.php on line 11
+[15-Dec-2020 13:29:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\webapp\upravljaj.php:65
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\webapp\upravljaj.php on line 65
+[15-Dec-2020 13:30:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\webapp\upravljaj.php:65
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\webapp\upravljaj.php on line 65
+[15-Dec-2020 13:34:13 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:34:13 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Igrica::__construct(), 3 passed in C:\xampp\htdocs\webapp\upravljaj.php on line 67 and exactly 4 expected in C:\xampp\htdocs\webapp\igriceClass.php:9
+Stack trace:
+#0 C:\xampp\htdocs\webapp\upravljaj.php(67): Igrica->__construct('4', 'FIFA 21', Object(Konzola))
+#1 {main}
+  thrown in C:\xampp\htdocs\webapp\igriceClass.php on line 9
+[15-Dec-2020 13:39:09 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:39:09 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Igrica::__construct(), 3 passed in C:\xampp\htdocs\webapp\upravljaj.php on line 67 and exactly 4 expected in C:\xampp\htdocs\webapp\igriceClass.php:9
+Stack trace:
+#0 C:\xampp\htdocs\webapp\upravljaj.php(67): Igrica->__construct('4', 'FIFA 21', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\webapp\igriceClass.php on line 9
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Undefined index: nazivKonzole in C:\xampp\htdocs\webapp\upravljaj.php on line 66
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:43:01 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:09 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:09 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:09 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:09 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:09 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:09 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:09 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:45:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:33 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:33 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:33 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:33 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:33 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:33 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:33 Europe/Berlin] PHP Notice:  Trying to get property 'NazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:51 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:51 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:51 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:51 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:51 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:51 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:46:51 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 88
+[15-Dec-2020 13:47:31 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:47:31 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:47:31 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:47:31 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:47:31 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:47:31 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:47:31 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:50:25 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:50:25 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:50:25 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:50:25 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:50:25 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:50:25 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 13:50:25 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\upravljaj.php on line 89
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Trying to get property 'nazivIgrice' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Trying to get property 'cena' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:19:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\webapp\izmeni.php:93
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\webapp\izmeni.php on line 93
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivIgrice' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Trying to get property 'cena' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:30:59 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 20
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Trying to get property 'igricaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 20
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Trying to get property 'nazivIgrice' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Trying to get property 'cena' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:31:38 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 15:34:50 Europe/Berlin] PHP Notice:  Undefined property: Igrica::$cena in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:35:01 Europe/Berlin] PHP Notice:  Undefined property: Igrica::$cena in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 15:55:13 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 20
+[15-Dec-2020 22:21:33 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:21:38 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:21:39 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:21:51 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:22:42 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:22:47 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:22:50 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:23:16 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:23:19 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:23:22 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:23:52 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:30:46 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 22:42:47 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 7
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'nazivIgrice' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'Cena' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:16 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 20
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'igricaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 20
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'nazivIgrice' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 85
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'Cena' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 87
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'nazivKonzole' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 90
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Undefined variable: igricaIzmena in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzola' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[15-Dec-2020 23:37:33 Europe/Berlin] PHP Notice:  Trying to get property 'konzolaID' of non-object in C:\xampp\htdocs\webapp\izmeni.php on line 95
+[16-Dec-2020 00:41:04 Europe/Berlin] PHP Warning:  Use of undefined constant igricaID - assumed 'igricaID' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\webapp\obrisi.php on line 10
+[16-Dec-2020 00:41:04 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\webapp\obrisi.php on line 11
+[16-Dec-2020 00:41:21 Europe/Berlin] PHP Notice:  Undefined variable: igricaID in C:\xampp\htdocs\webapp\obrisi.php on line 10
+[16-Dec-2020 00:41:21 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\webapp\obrisi.php on line 11
+[16-Dec-2020 14:06:28 Europe/Berlin] PHP Notice:  Undefined index: igricaID in C:\xampp\htdocs\webapp\obrisi.php on line 6
+[16-Dec-2020 14:06:51 Europe/Berlin] PHP Notice:  Undefined index: id in C:\xampp\htdocs\webapp\obrisi.php on line 6
